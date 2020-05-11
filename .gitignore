@@ -1,0 +1,6 @@
+/temp/
+/release/
+/debug/
+Makefile.*
+Makefile
+MotusShutDown.pro.user
